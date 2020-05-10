@@ -4,4 +4,9 @@ body {
 
 * {
     color: white;
+    text-align: center;
+}
+p {
+    width: 50%;
+    margin: auto
 }
